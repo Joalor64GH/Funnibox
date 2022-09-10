@@ -95,7 +95,7 @@ var app = new function() {
     }, {
         name: "Piramido",
         src: "v8-b3-cumulor-hb.mp4",
-        code: "3,4,5,14,16,18",
+        code: "3,4,5,14,16,17",
         sound: "23_bonus_cumulor",
         aspire: "aspire"
     }];
