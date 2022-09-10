@@ -81,21 +81,21 @@ var app = new function() {
         color: "5f7e7b",
         uniqsnd: !1
     }], this.bonusarray = [{
-        name: "Riveria",
+        name: "Alphoxodom",
         src: "v8-b1-riviera-hb.mp4",
-        code: "1,6,7,11,19",
+        code: "1,3,6,11,18,19",
         sound: "21_bonus_riviera",
         aspire: "aspire"
     }, {
-        name: "Zemetekile",
+        name: "Escamos",
         src: "v8-b2-zemetekile-hb.mp4",
-        code: "1,2,3,4,10",
+        code: "1,2,4,11,12,13",
         sound: "22_bonus_zemetekile",
         aspire: "aspire"
     }, {
-        name: "Cumulor",
+        name: "Piramido",
         src: "v8-b3-cumulor-hb.mp4",
-        code: "4,5,14,16,18",
+        code: "3,4,5,14,16,18",
         sound: "23_bonus_cumulor",
         aspire: "aspire"
     }];
