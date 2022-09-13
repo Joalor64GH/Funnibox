@@ -83,19 +83,19 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "Kofitez",
         src: "v7-b1-kofitez-hb.mp4",
-        code: "1,2,4,16,17",
+        code: "1,5,6,16,17",
         sound: "bonus_kofitez",
         aspire: "aspire_kofitez"
     }, {
         name: "Sapna",
         src: "v7-b2-sapna-hb.mp4",
-        code: "1,3,6,14,15",
+        code: "1,3,10,14,20",
         sound: "bonus_sapna",
         aspire: "aspire_sapna"
     }, {
         name: "Kabikabi",
         src: "v7-b3-kabikabi-hb.mp4",
-        code: "7,8,10,11,19",
+        code: "5,7,9,10,19",
         sound: "bonus_kabikabi",
         aspire: "aspire_kabikabi"
     }], this.unlockerarray = [];
