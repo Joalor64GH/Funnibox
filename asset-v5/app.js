@@ -81,21 +81,21 @@ var app = new function() {
         color: "E63C14",
         uniqsnd: !0
     }], this.bonusarray = [{
-        name: "Felicidade",
+        name: "O Pais",
         src: "v5-b1-felicidade-hb.mp4",
-        code: "1,3,6,10,16",
+        code: "1,3,6,8,16,18,20",
         sound: "bonus-felicidade",
         aspire: "aspire"
     }, {
-        name: "Chegou",
+        name: "Cara",
         src: "v5-b2-chegou-hb.mp4",
-        code: "1,4,9,13,17",
+        code: "1,2,4,6,7,13,17",
         sound: "bonus-chegou",
         aspire: "aspire"
     }, {
-        name: "Musica",
+        name: "Cantar",
         src: "v5-b3-musica-hb.mp4",
-        code: "1,5,7,14,19",
+        code: "4,5,6,14,15,16,19",
         sound: "bonus-musica",
         aspire: "aspire"
     }], this.unlockerarray = [];
