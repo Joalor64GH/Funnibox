@@ -1,6 +1,6 @@
 /* 0.5.4 2021-04-23 21:06:13 */
 var app = new function() {
-    this.name = "Sunrise", this.version = "3", this.date = "2013", this.folder = "asset-v3/", this.looptime = 8e3, this.bpm = 120, this.totalframe = 384, this.nbpolo = 7, this.nbloopbonus = 4, this.bonusloopA = !0, this.bonusendloopA = !0, this.recmaxloop = 23, this.recminloop = 3, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#001419", this.col0 = "#6E96A0", this.col1 = "#3C646E", this.col2 = "#28505A", this.col3 = "#143C46", this.col4 = "#002832", this.animearray = [{
+    this.name = "Moonrise", this.version = "3", this.date = "2013", this.folder = "asset-v3/", this.looptime = 8e3, this.bpm = 120, this.totalframe = 384, this.nbpolo = 10, this.nbloopbonus = 4, this.bonusloopA = !0, this.bonusendloopA = !0, this.recmaxloop = 23, this.recminloop = 3, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#9068FF", this.col0 = "#9068FF", this.col1 = "#9068FF", this.col2 = "#9068FF", this.col3 = "#9068FF", this.col4 = "#9068FF", this.animearray = [{
         name: "drum1_ballet",
         color: "1EB482",
         uniqsnd: !0
@@ -81,19 +81,19 @@ var app = new function() {
         color: "E6C832",
         uniqsnd: !1
     }], this.bonusarray = [{
-        name: "Lill Child",
+        name: "Lil CHAT",
         src: "v3-b1-child-hb.mp4",
         code: "2,4,9,14,16",
         sound: "bonus-child",
         aspire: "aspire"
     }, {
-        name: "Dance",
+        name: "The Dance",
         src: "v3-b2-dance-hb.mp4",
         code: "2,3,5,6,14",
         sound: "bonus-dance",
         aspire: "aspire"
     }, {
-        name: "Sunrise",
+        name: "Moonrise",
         src: "v3-b3-sunrise-hb.mp4",
         code: "6,11,13,16,18",
         sound: "bonus-sunrise",

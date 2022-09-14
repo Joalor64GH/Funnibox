@@ -1,6 +1,6 @@
 /* 0.5.4 2021-04-23 21:06:13 */
 var app = new function() {
-    this.name = "Jeevan", this.version = "7", this.date = "2019", this.folder = "asset-v7/", this.looptime = 6857, this.bpm = 140, this.totalframe = 342, this.nbpolo = 10, this.nbloopbonus = 3, this.bonusloopA = !0, this.bonusendloopA = !0, this.recmaxloop = 27, this.recminloop = 3, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#2b0f02", this.col0 = "#fe6e23", this.col1 = "#d65a1e", this.col2 = "#ae4619", this.col3 = "#863214", this.col4 = "#551e05", this.animearray = [{
+    this.name = "Middle East", this.version = "7", this.date = "2019", this.folder = "asset-v7/", this.looptime = 6857, this.bpm = 140, this.totalframe = 342, this.nbpolo = 10, this.nbloopbonus = 3, this.bonusloopA = !0, this.bonusendloopA = !0, this.recmaxloop = 27, this.recminloop = 3, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#138f00", this.col0 = "#138f00", this.col1 = "#138f00", this.col2 = "#138f00", this.col3 = "#138f00", this.col4 = "#138f00", this.animearray = [{
         name: "1_lead",
         color: "ff6419",
         uniqsnd: !0
@@ -81,19 +81,19 @@ var app = new function() {
         color: "32b441",
         uniqsnd: !1
     }], this.bonusarray = [{
-        name: "Kofitez",
+        name: "Tez",
         src: "v7-b1-kofitez-hb.mp4",
         code: "1,5,6,16,17",
         sound: "bonus_kofitez",
         aspire: "aspire_kofitez"
     }, {
-        name: "Sapna",
+        name: "Saamane",
         src: "v7-b2-sapna-hb.mp4",
         code: "1,3,10,14,20",
         sound: "bonus_sapna",
         aspire: "aspire_sapna"
     }, {
-        name: "Kabikabi",
+        name: "Kabhee-Kabhee",
         src: "v7-b3-kabikabi-hb.mp4",
         code: "5,7,9,10,19",
         sound: "bonus_kabikabi",
