@@ -89,7 +89,7 @@ var app = new function() {
     }, {
         name: "Kiss",
         src: "v2-b2-miss-hb.mp4",
-        code: "1,2,3,10,16,17",
+        code: "1,2,3,10,15,16",
         sound: "bonus-miss",
         aspire: "aspire"
     }, {
