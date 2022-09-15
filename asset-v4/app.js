@@ -1,6 +1,6 @@
 /* 0.5.4 2021-04-23 21:06:13 */
 var app = new function() {
-    this.name = "The Cruise", this.version = "4", this.date = "2014", this.folder = "asset-v4/", this.looptime = 8e3, this.bpm = 120, this.totalframe = 384, this.nbpolo = 10, this.nbloopbonus = 1, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 23, this.recminloop = 3, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#B28044", this.col0 = "#B28044", this.col1 = "#B28044", this.col2 = "#B28044", this.col3 = "#B28044", this.col4 = "#B28044", this.animearray = [{
+    this.name = "The Cruise", this.version = "4", this.date = "2014", this.folder = "asset-v4/", this.looptime = 8e3, this.bpm = 120, this.totalframe = 384, this.nbpolo = 10, this.nbloopbonus = 1, this.bonusloopA = !0, this.bonusendloopA = !1, this.recmaxloop = 23, this.recminloop = 3, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#B28044", this.col0 = "#B28044", this.col1 = "#B28044", this.col2 = "#B28044", this.col3 = "#825D30", this.col4 = "#B28044", this.animearray = [{
         name: "drum1_kick",
         color: "E5A90E",
         uniqsnd: !1

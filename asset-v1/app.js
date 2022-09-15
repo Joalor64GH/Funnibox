@@ -1,6 +1,6 @@
 /* 0.5.4 2021-04-23 21:06:13 */
 var app = new function() {
-    this.name = "Beta", this.version = "1", this.date = "2009", this.folder = "asset-v1/", this.looptime = 5333, this.bpm = 90, this.totalframe = 260, this.nbpolo = 10, this.nbloopbonus = 2, this.bonusloopA = !1, this.bonusendloopA = !1, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#696969", this.col0 = "#696969", this.col1 = "#696969", this.col2 = "#696969", this.col3 = "#696969", this.col4 = "#696969", this.animearray = [{
+    this.name = "Beta", this.version = "1", this.date = "2009", this.folder = "asset-v1/", this.looptime = 5333, this.bpm = 90, this.totalframe = 260, this.nbpolo = 10, this.nbloopbonus = 2, this.bonusloopA = !1, this.bonusendloopA = !1, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#696969", this.col0 = "#696969", this.col1 = "#696969", this.col2 = "#696969", this.col3 = "#404040", this.col4 = "#696969", this.animearray = [{
         name: "1_lead",
         color: "828282",
         uniqsnd: !0

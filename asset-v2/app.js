@@ -1,6 +1,6 @@
 /* 0.5.4 2021-04-23 21:06:13 */
 var app = new function() {
-    this.name = "Chivalry", this.version = "2", this.date = "2012", this.folder = "asset-v2/", this.looptime = 4800, this.bpm = 100, this.totalframe = 232, this.nbpolo = 10, this.nbloopbonus = 4, this.bonusloopA = !0, this.bonusendloopA = !0, this.recmaxloop = 38, this.recminloop = 5, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#88001B", this.col0 = "#88001B", this.col1 = "#88001B", this.col2 = "#88001B", this.col3 = "#88001B", this.col4 = "#88001B", this.animearray = [{
+    this.name = "Chivalry", this.version = "2", this.date = "2012", this.folder = "asset-v2/", this.looptime = 4800, this.bpm = 100, this.totalframe = 232, this.nbpolo = 10, this.nbloopbonus = 4, this.bonusloopA = !0, this.bonusendloopA = !0, this.recmaxloop = 38, this.recminloop = 5, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#88001B", this.col0 = "#88001B", this.col1 = "#88001B", this.col2 = "#88001B", this.col3 = "#260008", this.col4 = "#88001B", this.animearray = [{
         name: "beat1_boom",
         color: "828282",
         uniqsnd: !1
