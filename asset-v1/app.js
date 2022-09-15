@@ -83,19 +83,19 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "Heaven",
         src: "v1-b1-choir-hb.mp4",
-        code: "2,4,8,11,15",
+        code: "1,2,3,11,15,16,20",
         sound: "bonus-choir",
         aspire: "aspire"
     }, {
         name: "Sinking",
         src: "v1-b2-sailor-hb.mp4",
-        code: "10,11,14,15,20",
+        code: "2,3,5,8,10,12",
         sound: "bonus-sailor",
         aspire: "aspire-sailor"
     }, {
         name: "Snowy Drive",
         src: "v1-b3-santa-hb.mp4",
-        code: "1,9,13,14,16",
+        code: "1,3,9,13,15,17,19",
         sound: "bonus-santa",
         aspire: "aspire-santa"
     }];

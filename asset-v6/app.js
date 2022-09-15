@@ -83,19 +83,19 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "Be",
         src: "v6-b1-alive-hb.mp4",
-        code: "4,6,9,14,18",
+        code: "2,3,4,6,9,14,18",
         sound: "bonus-alive",
         aspire: "aspire-alive"
     }, {
         name: "Ready",
         src: "v6-b2-busta-hb.mp4",
-        code: "1,2,8,11,16",
+        code: "1,2,5,8,11,16,17",
         sound: "bonus-busta",
         aspire: "aspire-busta"
     }, {
         name: "Not a Friend",
         src: "v6-b3-vr-hb.mp4",
-        code: "3,8,12,11,20",
+        code: "1,3,7,10,12,19,20",
         sound: "bonus-vr",
         aspire: "aspire-vr"
     }], this.unlockerarray = [];
