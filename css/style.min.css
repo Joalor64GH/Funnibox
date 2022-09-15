@@ -468,12 +468,12 @@ body.miniPlayer #lock-pause .bt .bck {
 	-webkit-transform: translateY(0);
 	transform: translateY(0);
 	pointer-events: none;
-	background-image: url(../img/title.svg);
+	background-image: url(../img/title.png);
 	background-repeat: no-repeat
 }
 
 .darkmode #page-splash .centered #sp-title {
-	background-image: url(../img/title-darkmode.svg)
+	background-image: url(../img/title-darkmode.png)
 }
 
 #page-splash .centered #sp-baseline {
@@ -5369,7 +5369,7 @@ video::-webkit-media-controls {
 	width: 217px;
 	height: 165px;
 	margin: -20px auto 10px;
-	background-image: url(../img/bonus-unlock-clap.svg);
+	background-image: url(../img/bonus-unlock-clap.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	opacity: 0;
@@ -5380,7 +5380,7 @@ video::-webkit-media-controls {
 }
 
 .darkmode .box-popup.pop-bonus-unlock .box .pop .container .popimg {
-	background-image: url(../img/bonus-unlock-clap-darkmode.svg)
+	background-image: url(../img/bonus-unlock-clap-darkmode.png)
 }
 
 @-webkit-keyframes R {
