@@ -61,7 +61,7 @@ var app = new function() {
         color: "F42828",
         uniqsnd: !0
     }, {
-        name: "chips1_feel",
+        name: "chipsdel",
         color: "787DFF",
         uniqsnd: !1
     }, {
