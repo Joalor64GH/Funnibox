@@ -39,7 +39,7 @@ var app = new function() {
     }, {
         name: "10_epifle",
         color: "5f7e7b",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "11_arpeg",
         color: "5f7e7b",
