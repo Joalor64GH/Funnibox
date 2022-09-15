@@ -5499,11 +5499,11 @@ video::-webkit-media-controls {
 	height: 80px;
 	margin-left: 50px;
 	pointer-events: none;
-	background-image: url(../img/title.svg)
+	background-image: url(../img/title.png)
 }
 
 .darkmode .pop#pop-credit .container .logo {
-	background-image: url(../img/title-darkmode.svg)
+	background-image: url(../img/title-darkmode.png)
 }
 
 .pop#pop-credit .container #copy {
