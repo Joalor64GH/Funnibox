@@ -89,7 +89,7 @@ var app = new function() {
     }, {
         name: "I Know you Will",
         src: "v4-b2-follow-hb.mp4",
-        code: "1,2,4,6,8,9,12",
+        code: "1,4,6,8,9,12",
         sound: "bonus-follow",
         aspire: "aspire"
     }, {
